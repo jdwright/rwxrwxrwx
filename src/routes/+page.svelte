@@ -21,5 +21,5 @@ position: relativex;
     <h1 class="pt-48 text-white text-4xl m-auto text-center">Welcome to Airy Inspirations</h1>
 </div> -->
 
-<div class="text-center text-6xl">ReadWriteExecute</div>
+<div class="text-center text-6xl">ReadWrightExecute</div>
 <div class="text-center text-2xl mt-4">Software Engineering</div>
